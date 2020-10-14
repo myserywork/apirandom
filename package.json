@@ -7,6 +7,7 @@
   "scripts": {
     "start": "node server.js",
     "test": "node ace test"
+    "build": "build --output public" 
   },
   "keywords": [
     "adonisjs",
